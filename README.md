@@ -4,6 +4,8 @@
 
 本機器は、24V駆動のソレノイド電磁弁を手動で簡単に制御できるUSB Type-C接続モジュールです。
 USB Type-Cケーブル（5V3A）の接続ですぐに起動し、ボタン操作で電磁弁のON/OFFを切り替えられます。
+<br>（完成図）
+<br> <img src="/TypeCAirController_v0_wholeview.jpg" width="500">
 
 ## 2. 必要な機器
 
